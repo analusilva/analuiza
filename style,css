@@ -1,15 +1,10 @@
-.titulo{color:blue;font-size:80px}
-h1{color:red;}
-p {color:yellow;}
-body {background:gray;}
-strong{color#OOOOff;}
-
-
-
-titulo {color:rgb(233, 23, 58) b(233, 16, 52)}
-.titulo {color: blue; font-size:80px}
-.subtitulo {color: red; font-size:30px}
-body {background: gray;}
-strong {color:#20a720;}
+.titulo color: red
+.paragrafo {
+    background-color: #424E61;
+    color: white;
+    padding: 24px 0;
+    margin: 0 16px;
+    font-size: 16px;
+}
 
     
