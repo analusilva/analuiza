@@ -1,5 +1,5 @@
-.nome {color: red}
-.texto {
+.nome {text-align: center;color: red}
+.texto {text-align: center;
     background-color: red;
     color: rgb(0, 0, 0);
     padding: 24px 0;
