@@ -6,10 +6,6 @@ strong{color#OOOOff;}
 
 
 
-titulo {color: rgb(233, 23, 58) b(233, 16, 52)}
+titulo {color:rgb(233, 23, 58) b(233, 16, 52)}
 
-    background-color: #424E61;
-    color:pink;
-    padding: 24px 0;
-    margin: 0 16px;
-    font-size: 16px;
+    
